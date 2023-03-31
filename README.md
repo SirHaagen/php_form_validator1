@@ -1,2 +1,3 @@
-# php_form_validator1
-PHP Form validator
+# PHP Form validator
+
+I am an active student learning CSS, JS, React JS, Sass, Tailwind CSS, PHP and many other stuffs. Looking for a challenging job opportunity
